@@ -35,6 +35,6 @@ class _AppViewState extends State<AppView> {
         toolbarHeight: 40,
         backgroundColor: HexColor(primaryColor),
         titleTextStyle: const TextStyle(
-            fontSize: 18, fontWeight: FontWeight.w600, height: 1.13));
+            fontSize: 18, fontWeight: FontWeight.w600, height: 1.13),);
   }
 }
